@@ -1311,6 +1311,9 @@
     <!-- Show demo mode icons -->
     <string name="show_demo_mode">Show demo mode</string>
 
+    <!-- Name of the VoLTE/VoWiFi status bar icon. -->
+    <string name="status_bar_ims">VoLTE/VoWiFi</string>
+
     <!-- Name of the ethernet status bar icon. -->
     <string name="status_bar_ethernet">Ethernet</string>
 
