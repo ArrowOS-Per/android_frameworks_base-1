@@ -37,6 +37,8 @@
     <!-- PropImitationHooks -->
     <java-symbol type="array" name="config_certifiedBuildProperties" />
     <java-symbol type="string" name="config_stockFingerprint" />
+    <java-symbol type="bool" name="config_spoofGoogleApps" />
+    <java-symbol type="string" name="config_netflixSpoofModel" />
 
     <!-- Location indicator -->
     <java-symbol type="drawable" name="stat_sys_location" />
